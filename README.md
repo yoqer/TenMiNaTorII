@@ -12,8 +12,10 @@ de Q3, pero aun el estándar que no reduce calidad sustancial es el recomendado 
 No olvides que ya estan disponibles nuestras Sloth Machine, ediccion Metal, para nostálgicos y coleccionistas; 
 puedes ponerla en tu espacio en internet, añadiendo un simple <iframe> a tu pagina web, y las votaciones que recibas 
 se sincronizan con tu modelo en AlIAmAlIA, y Ranking general.   Las Sloth Machine pueden correr el modelo que entrenes 
-en ellas con el TERMINATOR, actualmente el Terminator I T4. 
-pio install terminatori
+en ellas con el TERMINATOR, actualmente el Terminator I T4.
+
+
+     # pip install terminatori
 
 O no olvides actualizaciones a ultimas version.
 
