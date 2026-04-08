@@ -5,18 +5,20 @@ Actuliza TenMiNaTor, a esta ultima versión y cuantiza tus modelos a cualquier f
 Logramos la cuantizacion para correr modelos grandes hasta en solo el Nuevo logrado Gran y Formidable 
 modo de cuatizacion en tan solo 2 bit, con el Q2 KiWi.
 Con esta fantastica compresion puedes cuantizar los modelos a Q2, 
-y mantedras una cosistencia tipica del antiguo Q3.   También puedes cuantizar al nuevo formato mejorado 
+y mantedras una cosistencia tipica del antiguo Q3.  
+También puedes cuantizar al nuevo formato mejorado 
 de Q3, pero aun el estándar que no reduce calidad sustancial es el recomendado Q4.
 
 
 No olvides que ya estan disponibles nuestras Sloth Machine, ediccion Metal, para nostálgicos y coleccionistas; 
 puedes ponerla en tu espacio en internet, añadiendo un simple <iframe> a tu pagina web, y las votaciones que recibas 
-se sincronizan con tu modelo en AlIAmAlIA, y Ranking general.   Las Sloth Machine pueden correr el modelo que entrenes 
+se sincronizan con tu modelo en AlIAmAlIA, y Ranking general. 
+Las Sloth Machine pueden correr el modelo que entrenes 
 en ellas con el TERMINATOR, actualmente el Terminator I T4.
 
 
 
- 🎯 Librería 
+ 🎯 Librería Entrenamiento
 
      # pip install tenminator
 
@@ -36,7 +38,7 @@ en ellas con el TERMINATOR, actualmente el Terminator I T4.
 
  🤓 Para casos excepcionales tambien puedes buscar la versión especifica que necesitas, por ejemplo hemos incluido la libreria completa reducida para x32, ya que la general es para ordenadores tipicos como los x64. 
  
- Debes buscar la version específica o mejoras de las ultimas librerias, aunque algunos casos puedan requerir la perdida alguna funcionalidad:     -Algunas cuentan con solo algunas funcionalidades nuevas, y puedes no requerir actualizarlas. (Entre las mejores practicas esta usar entornos independientes para cada proyecto, llamando solo a librerias requeridas.) 
+ Debes buscar la version específica o mejoras de las ultimas librerias, aunque algunos casos puedan requerir la perdida de alguna funcionalidad:      -Algunas cuentan con solo algunas funcionalidades nuevas, y puedes no requerir actualizarlas. (Entre las mejores practicas esta usar entornos independientes para cada proyecto, llamando solo a librerias requeridas.) 
  
 
      Ej. : #bash
