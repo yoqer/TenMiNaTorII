@@ -59,7 +59,7 @@ en ellas con el TERMINATOR, actualmente el Terminator I T4.
 ____________________________________________________________________________________________________________________________________________________
 
 
-### Hemos actualido algunas mejoras a la libreria para los dispositivos limitados, con nuevas opciones de cuantizacion por bloques, para posibilitar usar solo las cargas reiteradas por bloques de capas de los modelos requeridos. 
+#### Hemos actualido algunas mejoras a la libreria para los dispositivos limitados, con extendido opciones de cuantizacion por bloques, para posibilitar usar solo las cargas reiteradas por bloques de las capas de modelos. 
 
 
 
