@@ -18,4 +18,4 @@ pio install terminatori
 O no olvides actualizaciones a ultimas version.
 
 
-Prueba la Metal, para tu de las [Sloth Machine](http://carlomaxxine.com/librery/libreando.html).
+Prueba la Version Metal, para tu Web de las [Sloth Machine](http://carlomaxxine.com/librery/libreando.html).
