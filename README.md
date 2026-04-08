@@ -1,4 +1,4 @@
-Actuliza TenMiNaTor, a esta ultima versión y cuantiza tus modelos a cualquier formato.
+Actuliza TenMiNaTor, a esta ultima versión TenMiNaTor II y cuantiza tus modelos a cualquier formato.
 
 
 
@@ -20,18 +20,18 @@ en ellas con el TERMINATOR, actualmente el Terminator I T4.
 
  🎯 Librería Entrenamiento
 
-     # pip install tenminator
+      pip install tenminator
 
 
  🕸️ Correr Ultimo Modelo
 
-      # pip install terminatori
+       pip install terminatori
 
 
 
  😘 O no olvides realizar actualizaciones a su ultima version.
 
-     # pip install -U terminator
+       pip install -U terminator
 
 
 
@@ -50,8 +50,8 @@ en ellas con el TERMINATOR, actualmente el Terminator I T4.
 (Como congelar dependencias de proyectos para replicarlas en otros equipos o dispositivos.) 
 
 
-
-     # pip freeze > requirements.txt
+ 
+       pip freeze > requirements.txt
 
 
 
