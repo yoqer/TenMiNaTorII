@@ -59,7 +59,7 @@ en ellas con el TERMINATOR, actualmente el Terminator I T4.
 ____________________________________________________________________________________________________________________________________________________
 
 
-#### Hemos actualido algunas mejoras a la libreria para los dispositivos limitados, con extendidas opciones de cuantizacion por bloques, para posibilitar usar solo cargas reiteradas por bloques de capas modelos. 
+#### Hemos actualido algunas mejoras a la libreria para los dispositivos limitados, con extendidas opciones de cuantizacion por bloques, para posibilitar usar solo cargas reiteradas por bloques, de capas modelos. 
 
 
 
@@ -68,4 +68,4 @@ ________________________________________________________________________________
 
 
 
-# Prueba la Version Metal, para añadir a tu Web de las [Sloth Machine](http://carlomaxxine.com/librery/libreando.html).
+# Prueba la Version Metal, para añadir a tu Web de las  🎰[Sloth Machine](http://carlomaxxine.com/librery/libreando.html).🎰
