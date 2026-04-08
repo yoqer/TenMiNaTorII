@@ -47,7 +47,21 @@ en ellas con el TERMINATOR, actualmente el Terminator I T4.
 
 
 
+(Como congelar dependencias de proyectos para replicarlas en otros equipos o dispositivos.) 
 
 
 
-Prueba la Version Metal, para tu Web de las [Sloth Machine](http://carlomaxxine.com/librery/libreando.html).
+     # pip freeze > requirements.txt
+
+
+
+# Hemos actualido algunas mejoras a la libreria para los dispositivos limitados, con la opciones de cuantizacion por bloques, para usar solo las cargas reiteradas por bloques de capas de los modelos requeridos. 
+
+
+
+
+____________________________________________________________________________________________________________________________________________________
+
+
+
+# Prueba la Version Metal, para añadir a tu Web de las [Sloth Machine](http://carlomaxxine.com/librery/libreando.html).
