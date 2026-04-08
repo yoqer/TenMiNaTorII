@@ -38,7 +38,7 @@ en ellas con el TERMINATOR, actualmente el Terminator I T4.
 
  🤓 Para casos excepcionales tambien puedes buscar la versión especifica que necesitas, por ejemplo hemos incluido la libreria completa reducida para x32, ya que la general es para ordenadores tipicos como los x64. 
  
- Debes buscar la version específica o mejoras de las ultimas librerias, aunque algunos casos puedan requerir la perdida de alguna funcionalidad:      -Algunas cuentan con solo algunas funcionalidades nuevas, y puedes no requerir actualizarlas. (Entre las mejores practicas esta usar entornos (venv) independientes para cada proyecto, llamando solo a librerias requeridas.) 
+ Debes buscar la version específica o mejoras de las ultimas librerias, aunque algunos casos puedan requerir la perdida de alguna funcionalidad:      -Algunas cuentan con solo algunas funcionalidades nuevas, y puedes no requerir actualizarlas. (Entre las mejores practicas esta el usar entornos virtuales independientes para cada proyecto, llamando solo a las librerias requeridas. -Para esto deberás añadir delante: (venv)) 
  
 
      Ej. : #bash
