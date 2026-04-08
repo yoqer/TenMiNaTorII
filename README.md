@@ -55,6 +55,14 @@ en ellas con el TERMINATOR, actualmente el Terminator I T4.
 
 
 
+(O generar requirements.txt minimo, solo con librerías principales sin subdependencias)
+
+    pip install pipreqs
+
+
+
+
+
 
 ____________________________________________________________________________________________________________________________________________________
 
