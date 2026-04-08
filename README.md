@@ -2,8 +2,8 @@ Actuliza TenMiNaTor, a esta ultima versión TenMiNaTor II y cuantiza tus modelos
 
 
 
-Logramos la cuantizacion para correr modelos grandes hasta en solo el Nuevo logrado Gran y Formidable 
-modo de cuatizacion en tan solo 2 bit, con el Q2 KiWi.
+Logramos la cuantizacion para correr modelos grandes hasta en solo el Nuevo logrado, el Formidable Gran
+modo de cuantizacion en tan solo 2 bit, con el Q2 KiWi.
 Con esta fantastica compresion puedes cuantizar los modelos a Q2 KiWi, 
 y mantendrias una cosistencia tipica del antiguo Q3.  
 También puedes cuantizar al nuevo formato mejorado 
