@@ -24,7 +24,7 @@ Correr Ultimo Modelo
 
       # pip install terminatori
 
-O no olvides realizar actualizaciones a ultimas version.
+O no olvides realizar actualizaciones a ultima version.
 
 
 Prueba la Version Metal, para tu Web de las [Sloth Machine](http://carlomaxxine.com/librery/libreando.html).
