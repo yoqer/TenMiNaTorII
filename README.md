@@ -1,0 +1,21 @@
+Actuliza TenMiNaTor, a esta ultima versión y cuantiza tus modelos a cualquier formato.
+
+
+
+Logramos la cuantizacion para correr modelos grandes hasta en solo el Nuevo logrado Gran y Formidable 
+modo de cuatizacion en tan solo 2 bit, con el Q2 KiWi.
+Con esta fantastica compresion puedes cuantizar los modelos a Q2, 
+y mantedras una cosistencia tipica del antiguo Q3.   También puedes cuantizar al nuevo formato mejorado 
+de Q3, pero aun el estándar que no reduce calidad sustancial es el recomendado Q4.
+
+
+No olvides que ya estan disponibles nuestras Sloth Machine, ediccion Metal, para nostálgicos y coleccionistas; 
+puedes ponerla en tu espacio en internet, añadiendo un simple <iframe> a tu pagina web, y las votaciones que recibas 
+se sincronizan con tu modelo en AlIAmAlIA, y Ranking general.   Las Sloth Machine pueden correr el modelo que entrenes 
+en ellas con el TERMINATOR, actualmente el Terminator I T4. 
+pio install terminatori
+
+O no olvides actualizaciones a ultimas version.
+
+
+Prueba la Metal, para tu de las [Sloth Machine](http://carlomaxxine.com/librery/libreando.html).
