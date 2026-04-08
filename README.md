@@ -15,9 +15,16 @@ se sincronizan con tu modelo en AlIAmAlIA, y Ranking general.   Las Sloth Machin
 en ellas con el TERMINATOR, actualmente el Terminator I T4.
 
 
-     # pip install terminatori
+ Librería 
 
-O no olvides actualizaciones a ultimas version.
+     # pip install tenminator
+
+
+Correr Ultimo Modelo
+
+      # pip install terminatori
+
+O no olvides realizar actualizaciones a ultimas version.
 
 
 Prueba la Version Metal, para tu Web de las [Sloth Machine](http://carlomaxxine.com/librery/libreando.html).
