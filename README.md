@@ -5,9 +5,9 @@ Actuliza TenMiNaTor, a esta ultima versión y cuantiza tus modelos a cualquier f
 Logramos la cuantizacion para correr modelos grandes hasta en solo el Nuevo logrado Gran y Formidable 
 modo de cuatizacion en tan solo 2 bit, con el Q2 KiWi.
 Con esta fantastica compresion puedes cuantizar los modelos a Q2, 
-y mantedras una cosistencia tipica del antiguo Q3.  
+y mantendrias una cosistencia tipica del antiguo Q3.  
 También puedes cuantizar al nuevo formato mejorado 
-de Q3, pero aun el estándar que no reduce calidad sustancial es el recomendado Q4.
+de Q3, pero aun en el estándar que no reduce calidad sustancial es el recomendado Q4.
 
 
 No olvides que ya estan disponibles nuestras Sloth Machine, ediccion Metal, para nostálgicos y coleccionistas; 
