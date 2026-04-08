@@ -15,16 +15,37 @@ se sincronizan con tu modelo en AlIAmAlIA, y Ranking general.   Las Sloth Machin
 en ellas con el TERMINATOR, actualmente el Terminator I T4.
 
 
- Librería 
+
+ 🎯 Librería 
 
      # pip install tenminator
 
 
-Correr Ultimo Modelo
+ 🕸️ Correr Ultimo Modelo
 
       # pip install terminatori
 
-O no olvides realizar actualizaciones a ultima version.
+
+
+ 😘 O no olvides realizar actualizaciones a su ultima version.
+
+     # pip install -U terminator
+
+
+
+
+ 🤓 Para casos excepcionales tambien puedes buscar la versión especifica que necesitas, por ejemplo hemos incluido la libreria completa reducida para x32, ya que la general es para ordenadores tipicos como los x64. 
+ 
+ Debes buscar la version específica o mejoras de las ultimas librerias, aunque algunos casos puedan requerir la perdida alguna funcionalidad:     -Algunas cuentan con solo algunas funcionalidades nuevas, y puedes no requerir actualizarlas. (Entre las mejores practicas esta usar entornos independientes para cada proyecto, llamando solo a librerias requeridas.) 
+ 
+
+     Ej. : #bash
+ 
+       pip install tenminator==2.1.0
+
+
+
+
 
 
 Prueba la Version Metal, para tu Web de las [Sloth Machine](http://carlomaxxine.com/librery/libreando.html).
