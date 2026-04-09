@@ -9,7 +9,7 @@
 | Q5 | 5 | INT5 asimétrico | ~5 GB | ★★★★☆ | Equilibrio calidad/tamaño |
 | Q4_K_M | 4 | INT4 asimétrico (recomendado) | ~4 GB | ★★★★☆ | Uso general |
 | Q3_TurboQuant | 3 | Rotación Hadamard + INT3 | ~3 GB | ★★★☆☆ | GPUs 8 GB VRAM |
-| Q2_KIVI | 2 | KV-cache + outliers | ~2 GB | ★★☆☆☆ | Edge devices |
+| Q2_KIVVI | 2 | KV-cache + outliers | ~2 GB | ★★☆☆☆ | Edge devices |
 | Q1_BitNet | 1 | Ternario {-1,0,1} | ~1 GB | ★☆☆☆☆ | Chips especializados |
 | NVFP4 | 4 | Float4 con codebook (Blackwell) | ~4 GB | ★★★★☆ | NVIDIA RTX 50xx |
 | ANT4 | 4 | Adaptive Numerical Type | ~4 GB | ★★★★★ | NVIDIA Vera Rubin |
