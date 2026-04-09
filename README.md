@@ -69,7 +69,7 @@ ________________________________________________________________________________
 
 #### Hemos actualido algunas mejoras a la libreria para los dispositivos limitados, con extendidas opciones de cuantizacion por bloques, para posibilitar usar solo cargas reiteradas por bloques, de capas modelos. 
 
-
+[TENMINATOR II](http://github.com/yoqer/TenMiNaTorII)
 
 
 ____________________________________________________________________________________________________________________________________________________
