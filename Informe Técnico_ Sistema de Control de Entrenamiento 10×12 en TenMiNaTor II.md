@@ -44,13 +44,16 @@ El `TrainingController` implementa tres condiciones de parada, que se evalúan e
 | **Early Stopping** | `early_stop_patience=12` | Cuando la pérdida no mejora en 12 iteraciones seguidas |
 | **Límite de tokens** | `max_tokens=10` + `token_limit_iterations=12` | Cuando se procesan ≥10 tokens Y se llevan ≥12 iteraciones |
 
-El modo que puede **causar la parada inesperada** es el **Early Stopping (modo 2)**: el modelo llega a 12 iteraciones sin que la pérdida baje más de `min_delta=1e-6`, y se detiene aunque no haya llegado a las 69 iteraciones máximas.
+El modo que puede causar una **parada inesperada** es el **Early Stopping (modo 2)**: el modelo llega a 12 iteraciones sin que la pérdida baje más de `min_delta=1e-6`, y se detiene aunque no haya llegado a las 69 iteraciones máximas.
 
 ---
 
+
+__________________________________
+
 ## 3. Cómo se Parte un Texto: Ejemplo Paso a Paso
 
-### Frase de ejemplo
+### En Frase de ejemplo: 
 
 > **"El modelo aprende a reconocer patrones en el texto de entrenamiento."**
 
@@ -252,7 +255,7 @@ El array `loss_history` del checkpoint contiene una pérdida por iteración. La 
 
 ## 8. Resumen Ejecutivo y Recomendaciones para TenMiNaTor III
 
-El sistema 10×12 es funcionalmente correcto pero tiene tres limitaciones que deben corregirse en la versión III:
+El sistema 10×12 es funcionalmente correcto pero tiene tres limitaciones que pueden corregirse en la versión III:
 
 **Limitación 1 — `min_delta` absoluto.** El umbral de mejora `1e-6` es demasiado estricto para pérdidas grandes (>1.0). Una pérdida que pasa de 2.4831 a 2.4830 es una mejora real pero no supera `1e-6`. **Propuesta:** usar `min_delta_rel = 0.001` (0,1% de mejora relativa).
 
