@@ -221,7 +221,7 @@ tenminator export --model modelo_q4.bin --format unikernel --runtime nanovms
 
 
 ### Nota: 
-Algunas instalaciones pueden solo estar disponibles para usuarios registrados en versiones Web del Proyecto AliAmalia. [-Unete Aqui-](https://torete.net/terminatori/GPU/index.html) 
+Algunas instalaciones pueden solo estar disponibles para usuarios registrados en versiones Web del Proyecto AliAmalia. [-Unete Aqui-](https://torete.net/terminatori/GPU/index.html)
 
 -Y las avanzadas opciones solo ser desbloquedas, para usuarios avanzados en uso; no obstante creemos que toda la tecnología avanzada de IA, debera estar bajo dominio público y estara disponible para ser usada por todos y GRATIS.
 
