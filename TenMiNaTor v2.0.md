@@ -212,7 +212,7 @@ tenminator export --model modelo_q4.bin --format unikernel --runtime nanovms
 | **tenminator** | `pip install tenminator` | Esta librería — entrenamiento y cuantización |
 | **terminatori** | `pip install terminatori` | Motor de inferencia con panel web |
 | **terminatodo** | `pip install terminatodo` | Gestión de almacenamiento multi-cloud |
-| **terminator** | `pip install terminator1` | Framework de IA avanzado |
+| **terminator** | `pip install terminator1` | Framework de IA avanzado | (En Producción)
 | **teminaTor** | `pip install teminaTor` | Framework de IA ligero |
 
 ---
@@ -221,7 +221,7 @@ tenminator export --model modelo_q4.bin --format unikernel --runtime nanovms
 
 
 ### Nota: 
-Algunas instalaciones pueden solo estar disponibles para usuarios registrados en el Proyecto AliAmalia. Y las avanzadas opciones solo ser desbloquedas, para usuarios avanzados, no obstante creemos que la tecnología avanzada de IA, debe ser de dominio público y estara disponible para ser usada por todos y gratuitamente.
+Algunas instalaciones pueden solo estar disponibles para usuarios registrados en el Proyecto AliAmalia. Y las avanzadas opciones solo ser desbloquedas, para usuarios avanzados, no obstante creemos que la tecnología avanzada de IA, debe ser de dominio público y estara disponible para ser usada por todos y GRATIS.
 
 
 ---
