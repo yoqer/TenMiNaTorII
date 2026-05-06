@@ -212,7 +212,7 @@ tenminator export --model modelo_q4.bin --format unikernel --runtime nanovms
 | **tenminator** | `pip install tenminator` | Esta librería — entrenamiento y cuantización |
 | **terminatori** | `pip install terminatori` | Motor de inferencia con panel web |
 | **terminatodo** | `pip install terminatodo` | Gestión de almacenamiento multi-cloud |
-| **terminator** | `pip install terminator1` | Framework de IA avanzado | (En Producción)
+| **terminator** | `pip install terminator1` | Framework de IA avanzado | 
 | **teminaTor** | `pip install teminaTor` | Framework de IA ligero |
 
 ---
