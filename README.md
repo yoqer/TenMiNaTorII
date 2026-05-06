@@ -70,7 +70,7 @@ ________________________________________________________________________________
 #### Hemos actualido algunas mejoras a la libreria para los dispositivos limitados, con extendidas opciones de cuantizacion por bloques, para posibilitar usar solo cargas reiteradas por bloques, de capas modelos. 
 
 
-# TenMiNaTor I = Entrenamiento, prueba e inferencia = 32 | Cuantiza > 16 
+### TenMiNaTor I = Entrenamiento, prueba e inferencia = 32 | Cuantiza > 16 
 
 ## [TENMINATOR II](https://github.com/yoqer/TenMiNaTorII/blob/main/cuantizacion-llm.md) = Uso General | Cuantizacion = Todas
 
