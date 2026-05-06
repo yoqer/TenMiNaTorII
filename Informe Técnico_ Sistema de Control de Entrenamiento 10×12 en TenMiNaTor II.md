@@ -44,7 +44,7 @@ El `TrainingController` implementa tres condiciones de parada, que se evalúan e
 | **Early Stopping** | `early_stop_patience=12` | Cuando la pérdida no mejora en 12 iteraciones seguidas |
 | **Límite de tokens** | `max_tokens=10` + `token_limit_iterations=12` | Cuando se procesan ≥10 tokens Y se llevan ≥12 iteraciones |
 
-El modo que **causa la parada inesperada** que se reporta es el **Early Stopping (modo 2)**: el modelo llega a 12 iteraciones sin que la pérdida baje más de `min_delta=1e-6`, y se detiene aunque no haya llegado a las 69 iteraciones máximas.
+El modo que puede **causar la parada inesperada** es el **Early Stopping (modo 2)**: el modelo llega a 12 iteraciones sin que la pérdida baje más de `min_delta=1e-6`, y se detiene aunque no haya llegado a las 69 iteraciones máximas.
 
 ---
 
