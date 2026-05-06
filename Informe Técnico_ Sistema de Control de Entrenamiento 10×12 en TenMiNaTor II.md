@@ -165,7 +165,7 @@ En la iteración 32, `iterations_without_improvement` llega a 12 y `should_conti
 stop_reason: "[NEW] Early Stop: 12 iteraciones sin mejora"
 ```
 
-**Este es el comportamiento que puede originar rápida parada al entrenar"**: no es un error, es el Early Stopping funcionando correctamente. El modelo ha **convergido** y no tiene sentido seguir iterando.
+**Este comportamiento podria originar rápida parada al entrenar**: no es un error, es el Early Stopping funcionando correctamente. El modelo ha **convergido** y no tiene sentido seguir iterando.
 
 ---
 
