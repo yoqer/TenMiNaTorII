@@ -67,7 +67,7 @@ en ellas con el TERMINATOR, actualmente el Terminator I T4.
 ____________________________________________________________________________________________________________________________________________________
 
 
-#### Hemos actualido algunas mejoras a la libreria para los dispositivos limitados, con extendidas opciones de cuantizacion por bloques, para posibilitar usar solo cargas reiteradas por bloques, de capas modelos. 
+#### Hemos actualizado algunas mejoras a la libreria para los dispositivos limitados, con extendidas opciones de cuantizacion por bloques, para posibilitar usar solo cargas reiteradas por bloques, de capas de cualquier modelo, lo que permite extender el uso de modelos grandes en pequeños dispositivos. 
 
 
 ### TenMiNaTor I = Entrenamiento, prueba e inferencia = 32 | Cuantiza > 16 
