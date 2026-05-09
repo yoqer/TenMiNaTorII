@@ -141,9 +141,9 @@ controller.start()
 
 ---
 
-## Integración con el ecosistema yoqer
+## Integración con el ecosistema de Gothan
 
-### TERMINATORI (inferencia)
+### TERMINATOR I (inferencia)
 
 ```python
 from tenminator import TerminatoriBridge
